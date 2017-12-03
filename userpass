@@ -1,5 +1,6 @@
-666666	666666
-888888	888888
+user	user
+user	1234
+user  (none)
 admin	(none)
 admin	1111
 admin	1111111
@@ -58,4 +59,3 @@ supervisor	supervisor
 support	support
 tech	tech
 ubnt	ubnt
-user	user
